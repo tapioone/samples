@@ -1,21 +1,14 @@
 {
   "files": {
-    "main.css": "/tapio-auth-react/static/css/main.39ded69a.chunk.css",
-    "main.js": "/tapio-auth-react/static/js/main.c9031d64.chunk.js",
-    "main.js.map": "/tapio-auth-react/static/js/main.c9031d64.chunk.js.map",
-    "runtime-main.js": "/tapio-auth-react/static/js/runtime-main.d4232e81.js",
-    "runtime-main.js.map": "/tapio-auth-react/static/js/runtime-main.d4232e81.js.map",
-    "static/js/2.bc618a5a.chunk.js": "/tapio-auth-react/static/js/2.bc618a5a.chunk.js",
-    "static/js/2.bc618a5a.chunk.js.map": "/tapio-auth-react/static/js/2.bc618a5a.chunk.js.map",
-    "index.html": "/tapio-auth-react/index.html",
-    "static/css/main.39ded69a.chunk.css.map": "/tapio-auth-react/static/css/main.39ded69a.chunk.css.map",
-    "static/js/2.bc618a5a.chunk.js.LICENSE.txt": "/tapio-auth-react/static/js/2.bc618a5a.chunk.js.LICENSE.txt",
-    "static/media/logo.30091f21.svg": "/tapio-auth-react/static/media/logo.30091f21.svg"
+    "main.css": "/samples/auth-react/static/css/main.d240f336.css",
+    "main.js": "/samples/auth-react/static/js/main.75c4c170.js",
+    "static/media/logo.svg": "/samples/auth-react/static/media/logo.075c9dbc6593a8dbe73b2ef0b2840afd.svg",
+    "index.html": "/samples/auth-react/index.html",
+    "main.d240f336.css.map": "/samples/auth-react/static/css/main.d240f336.css.map",
+    "main.75c4c170.js.map": "/samples/auth-react/static/js/main.75c4c170.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4232e81.js",
-    "static/js/2.bc618a5a.chunk.js",
-    "static/css/main.39ded69a.chunk.css",
-    "static/js/main.c9031d64.chunk.js"
+    "static/css/main.d240f336.css",
+    "static/js/main.75c4c170.js"
   ]
 }
