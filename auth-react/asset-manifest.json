@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/samples/auth-react/static/css/main.d240f336.css",
+    "main.js": "/samples/auth-react/static/js/main.bc8eed41.js",
+    "static/media/logo.svg": "/samples/auth-react/static/media/logo.075c9dbc6593a8dbe73b2ef0b2840afd.svg",
+    "index.html": "/samples/auth-react/index.html",
+    "main.d240f336.css.map": "/samples/auth-react/static/css/main.d240f336.css.map",
+    "main.bc8eed41.js.map": "/samples/auth-react/static/js/main.bc8eed41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d240f336.css",
+    "static/js/main.bc8eed41.js"
+  ]
+}
